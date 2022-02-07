@@ -1,2 +1,4 @@
+github.com/hlts2/round-robin v0.0.0-20211119053418-5ea74e1f7bfc h1:3YSto57+lppXY4Z/5on+SppQ/dWG9htalesfMlN9EkQ=
+github.com/hlts2/round-robin v0.0.0-20211119053418-5ea74e1f7bfc/go.mod h1:KcxyNW4jxhFpHNsUFZzs5xOZ7rr/v1O19u+Qv5yDzw4=
 github.com/psilva261/timsort/v2 v2.0.0 h1:w7ePtcPItveXl/xu4Nae6S6p9/bTfo+swTXixfU7hBg=
 github.com/psilva261/timsort/v2 v2.0.0/go.mod h1:NB+lnymkBaIJSJ376BB0n0LsdmqpWeG+w3KnzJ1ELqM=
